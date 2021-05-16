@@ -13,3 +13,8 @@
 * ABC
 
 ![Clean Architecture](./docs/assets/clean_architecture.png)
+
+## Class 4
+* Decorators
+* Default Pages
+* TDD Introduction
